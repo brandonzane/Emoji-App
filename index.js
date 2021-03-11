@@ -3,7 +3,7 @@
 // One solution: wrap the code for rendering the emojis in a function and make sure it
 // clears away old version of the array before it renders the updated one
 
-const myEmojis = ["🎥", "💻", "📷","👨🏾"]
+const myEmojis = ["🎥", "💻", "📷","👨🏾"👨‍💻]
 const emojiContainer = document.getElementById("emoji-container")
 
 function renderEmojis(){
